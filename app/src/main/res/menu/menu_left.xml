@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="清除缓存"
+        android:id="@+id/mn_cache"
+        android:icon="@drawable/c">
+
+    </item>
+
+
+    <item android:title="选择来源"
+        android:id="@+id/mn_from"
+        android:icon="@drawable/star">
+
+    </item>
+
+    <item android:title="添加栏目"
+        android:id="@+id/mn_type"
+        android:icon="@drawable/type">
+
+    </item>
+
+    <item android:title="夜间模式"
+        android:id="@+id/mn_skin"
+        android:icon="@drawable/moon">
+
+    </item>
+
+    <item android:title="注销用户"
+        android:id="@+id/mn_out"
+        android:icon="@drawable/o">
+
+    </item>
+
+</menu>

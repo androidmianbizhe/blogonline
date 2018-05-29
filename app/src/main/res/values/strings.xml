@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">多源博客</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="weibosdk_demo_toast_auth_success">授权成功</string>
+
+    <string name="weibosdk_demo_toast_auth_canceled">取消授权</string>
+
+</resources>

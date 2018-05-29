@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#595B5D</color>
+    <color name="colorPrimaryDark">#717171</color>
+    <color name="colorAccent">#a3a3a3</color>
+
+    <color name="toast_bg_press">#FF7900</color>
+    <color name="toast_bg">#FFF3D7</color>
+    <color name="green">#A9D88F</color>
+
+
+    <color name="role_yellow_gray">#48CFAD</color>
+    <color name="white">#fff</color>
+    <color name="gray_text">#a3a3a3</color>
+    <color name="photopicker_background">#fff</color>
+
+    <color name="deep_green">#16a085</color>
+    <color name="light_green">#27ae60</color>
+    <color name="gray_light">#717171</color>
+
+    <color name="light_blue">#bbffff</color>
+
+    <color name="navigationBg">#a3a3a3</color>
+
+
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="60dp"
+    android:layout_gravity="center_vertical"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/iv_choosed"
+        android:layout_marginLeft="9dp"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:src="@drawable/right"/>
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="CSDN"/>
+
+</RelativeLayout>
