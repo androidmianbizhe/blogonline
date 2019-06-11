@@ -25,3 +25,4 @@ UI模块：设计出简洁美观的界面用于显示博客信息和博客详情
 用户注册登录模块：用户可以通过手机号验证码注册账号，也可以通过qq，百度，新浪微博等第三方帐号登录此软件。
 
 用户信息查看修改模块：用户可以通过登录帐号后进行头像上传，发布签名，修改性别等用户信息操作。
+![第三方登录](https://github.com/androidmianbizhe/blogonline/blob/master/screen_cut/QQ%E7%AC%AC%E4%B8%89%E6%96%B9%E7%99%BB%E5%BD%95.jpg)
