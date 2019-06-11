@@ -30,4 +30,8 @@ UI模块：设计出简洁美观的界面用于显示博客信息和博客详情
 <img src="https://github.com/androidmianbizhe/blogonline/blob/master/screen_cut/%E5%8D%9A%E5%AE%A2%E6%8E%A8%E8%8D%90.jpg" width="200" alt="博客推荐" />
 <img src="https://github.com/androidmianbizhe/blogonline/blob/master/screen_cut/%E5%8D%9A%E5%AE%A2%E8%AF%A6%E6%83%85.jpg" width="200" alt="博客详情" />
 <img src="https://github.com/androidmianbizhe/blogonline/blob/master/screen_cut/%E7%9F%AD%E4%BF%A1%E6%B3%A8%E5%86%8C.jpg" width="200" alt="短信注册" />
+<img src="https://github.com/androidmianbizhe/blogonline/blob/master/screen_cut/%E7%94%A8%E6%88%B7%E8%AF%A6%E6%83%85.jpg" width="200" alt="用户详情" />
+<img src="https://github.com/androidmianbizhe/blogonline/blob/master/screen_cut/%E9%80%89%E6%8B%A9%E5%8D%9A%E5%AE%A2%E5%B9%B3%E5%8F%B0.jpg" width="200" alt="博客平台" />
+
+<img src="https://github.com/androidmianbizhe/blogonline/blob/master/screen_cut/%E9%80%89%E6%8B%A9%E5%8D%9A%E5%AE%A2%E7%B1%BB%E5%9E%8B.jpg" width="200" alt="博客类型" />
 
